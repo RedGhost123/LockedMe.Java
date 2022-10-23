@@ -25,4 +25,5 @@ The user has to select option from the user interface shown.
 
         d. option to navigate back to main menu.
 <h2>Technologies</h2>
-<h1>java 8, Intellij IDE.</h1>
+<h1>.   java 8 </h4>
+<h4>.   Intellij IDE </h4>
