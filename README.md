@@ -1,10 +1,11 @@
 # LockedMe.Java
 ## Table of content
-<h1> . </h1>General Info
+<h1> . General Info </h1>
 
-<h1> . </h1>Using the application
+<h1> . Using the application</h1>
 
-<h1> . </h1>Technologies
+<h1> . Technologies</h1>
+
 ### General Info
 A simple file handling project in java.
 ### Using the application
