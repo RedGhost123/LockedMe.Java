@@ -1,6 +1,6 @@
 # LockedMe.Java
 ## Table of content
-<h5> . General Info </h5>
+<h3> . General Info </h3>
 
 <h5> . Using the application</h5>
 
