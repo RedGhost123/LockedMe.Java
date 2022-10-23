@@ -6,6 +6,8 @@
 
 <h4> . Technologies</h4>
 
+<h4> . Setup</h4>
+
 <h2> General Info</h2>
 A simple file handling project in java.
 <h2>Using the application</h2>
@@ -27,3 +29,8 @@ The user has to select option from the user interface shown.
 <h2>Technologies</h2>
 <h4>.   java 8 </h4>
 <h4>.   Intellij IDE </h4>
+
+<h2> Setup</h2>
+      <h4> Run this as a java project.
+        Launcher or main() method can be found in LockedMe class under src folder
+     
