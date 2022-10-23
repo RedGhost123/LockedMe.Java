@@ -13,8 +13,7 @@ Welcome screen displays the application name, developer details, directory infor
 
 The user has to select option from the user interface shown.
 1. The first option list the current file names in ascending order. User can enter the desired directory name in Main.java.
-
-    2. The second option returns the details of the user interface with following options.
+2. The second option returns the details of the user interface with following options.
 
         a. Add a file to the existing directory list.
 
