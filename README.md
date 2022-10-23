@@ -10,6 +10,8 @@
 A simple file handling project in java.
 <h2>Using the application</h2>
 Welcome screen displays the application name, developer details, directory information and main menu.
+![LockedMe java – LockedMe java 23_10_2022 17_02_09](https://user-images.githubusercontent.com/111677524/197402741-0f24dfcd-5f28-473c-8f91-5b302d30c2a5.png)
+
 
 The user has to select option from the user interface shown.
 1. The first option list the current file names in ascending order. User can enter the desired directory name in Main.java.
