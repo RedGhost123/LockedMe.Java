@@ -26,11 +26,13 @@ The user has to select option from the user interface shown.
         c. Search a user specified file from the main directory.
 
         d. option to navigate back to main menu.
+3.Third option to closes the application        
 <h2>Technologies</h2>
 <h4>.   java 8 </h4>
 <h4>.   Intellij IDE </h4>
 
 <h2> Setup</h2>
          <h4> Run this as a java project.</h4>
+         
                Launcher or main() method can be found in LockedMe class under src folder
      
