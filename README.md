@@ -2,7 +2,7 @@
 ## Table of content
 <h3> . General Info </h3>
 
-<h5> . Using the application</h5>
+<h4> . Using the application</h4>
 
 <h5> . Technologies</h5>
 
