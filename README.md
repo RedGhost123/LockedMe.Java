@@ -1,3 +1,5 @@
 # LockedMe.Java
 ## Table of content
-Syntax:[Text] (Link)
+Syntax:[Text] 
+## Text
+this is a normal text file
