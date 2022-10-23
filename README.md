@@ -31,6 +31,6 @@ The user has to select option from the user interface shown.
 <h4>.   Intellij IDE </h4>
 
 <h2> Setup</h2>
-      <h4> Run this as a java project.
+     <h4> Run this as a java project.</h4>
         Launcher or main() method can be found in LockedMe class under src folder
      
